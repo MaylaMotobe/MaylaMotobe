@@ -1,16 +1,27 @@
-### Hi there 👋
+### Oii! Eu sou a Mayla Mayumi Motobe 
 
-<!--
-**MaylaMotobe/MaylaMotobe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Estudando Programação Web na Instituição da Oportunidade Social ...
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/MaylaMotobe">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaylaMotobe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaylaMotobe&layout=compact&langs_count=7&theme=dark"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+<div style="display: inline_block"><br>
+  
+  <img align="center" alt="Mayla-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Mayla-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="right" alt="Mayla-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/921057440668188712/1016095234549088297/picasion.com_143006392da22bcbbf6d4e0d2a5da034.gif>
+</div>
+</div>
+
+##
+ 
+<div> 
+  <a href = "mailto:mayumi.mayla@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/mayla-mayumi-motobe-776114b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/MaylaMotobe/MaylaMotobe/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
