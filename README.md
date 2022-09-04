@@ -12,7 +12,7 @@
   
   <img align="center" alt="Mayla-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mayla-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="right" alt="Mayla-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/921057440668188712/1016095234549088297/picasion.com_143006392da22bcbbf6d4e0d2a5da034.gif>
+   <img align="right" alt="Mayla-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/921057440668188712/1016102489013108777/download20220900181044.png">
 </div>
 </div>
 
