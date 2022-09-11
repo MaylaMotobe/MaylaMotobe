@@ -1,6 +1,6 @@
-### Oii! Eu sou a Mayla Mayumi Motobe 
+### Oii! Eu sou a Mayla 🤗
 
-- 🌱 Estudando Programação Web na Instituição da Oportunidade Social ...
+- 💻 Estudando Programação Web na Instituição da Oportunidade Social
 
 <div align="center">
   <a href="https://github.com/MaylaMotobe">
