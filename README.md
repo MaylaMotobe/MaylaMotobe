@@ -1,6 +1,6 @@
-### Oii! Eu sou a Mayla 🤗
+### Oii! Eu sou a Mayla, tudo bem? 🤗
 
-- 💻 Estudando Programação Web no Instituição da Oportunidade Social
+- 💻 Formada pelo Instituto da Oportunidade Social em Desenvolvimento Web.
 
 <div align="center">
   <a href="https://github.com/MaylaMotobe">
