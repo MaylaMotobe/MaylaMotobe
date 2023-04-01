@@ -1,6 +1,7 @@
 ### Oii! Eu sou a Mayla, tudo bem? 🤗
 
 - 💻 Formada pelo Instituto da Oportunidade Social em Desenvolvimento Web.
+- Realizei alguns projetos durante meu período neste curso, com as línguagens HTML, CSS e JavaScript.
 
 <div align="center">
   <a href="https://github.com/MaylaMotobe">
