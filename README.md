@@ -2,6 +2,8 @@
 
 - 💻 Formada pelo Instituto da Oportunidade Social em Desenvolvimento Web.
 - Realizei alguns projetos durante meu período neste curso, com as línguagens HTML, CSS e JavaScript.
+- Estou realizando o curso de Análise e Desenvolvimento na Universidade Cidade de São Paulo.
+- Busco sempre me aperfeiçoar com cursos complementares. 
 
 <div align="center">
   <a href="https://github.com/MaylaMotobe">
