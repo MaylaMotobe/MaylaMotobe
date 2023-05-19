@@ -1,9 +1,10 @@
 ### Oii! Eu sou a Mayla, tudo bem? 🤗
 
-- 💻 Formada pelo Instituto da Oportunidade Social em Desenvolvimento Web.
-- Realizei alguns projetos durante meu período neste curso, com as línguagens HTML, CSS e JavaScript.
-- Estou realizando o curso de Análise e Desenvolvimento na Universidade Cidade de São Paulo.
-- Busco sempre me aperfeiçoar com cursos complementares. 
+- 🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo;
+- 🤓 Estou realizando cursos complementares pela Origamid;
+- 💻 Formada pelo Instituto da Oportunidade Social em Desenvolvimento Web;
+- 👩‍💻 Realizei alguns projetos durante meu período neste curso, com as línguagens HTML, CSS e JavaScript, você pode conferir acessando meu repositório;
+- 🤍 Meu foco hoje é pelo front-end, mas gostaria de explorar o back-end para futuramente me tornar uma dev full-stack.
 
 <div align="center">
   <a href="https://github.com/MaylaMotobe">
