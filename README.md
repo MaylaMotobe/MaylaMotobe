@@ -3,7 +3,7 @@
 - 🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo;
 - 🤓 Estou realizando cursos complementares pela Origamid;
 - 💻 Formada pelo Instituto da Oportunidade Social em Desenvolvimento Web;
-- 👩‍💻 Realizei alguns projetos durante meu período neste curso, com as línguagens HTML, CSS e JavaScript, você pode conferir acessando meu repositório;
+- 👩‍💻 Realizei alguns projetos durante meu período neste curso, com as linguagens HTML, CSS e JavaScript, você pode conferir acessando meu repositório;
 - 🤍 Meu foco hoje é pelo front-end, mas gostaria de explorar o back-end para futuramente me tornar uma dev full-stack.
 
 <div align="center">
