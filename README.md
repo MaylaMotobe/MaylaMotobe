@@ -1,7 +1,7 @@
 ### Oii! como você está? 🤗
 
-- 🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo;
-- 🚀 Aluna do Programa Start Tech - Desenvolvimento Front-End pela TOTVS em parceria com a Ada Tech;
+- 🎓 Formada em Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo;
+- 🚀 Participei do Programa Start Tech - Desenvolvimento Front-End pela TOTVS em parceria com a Ada Tech;
 - 🤓 Estou realizando cursos complementares pela Origamid;
 - 💻 Formada pelo Instituto da Oportunidade Social em Desenvolvimento Web;
 - 👩‍💻 Realizei alguns projetos durante meu período neste curso, com as linguagens HTML, CSS e JavaScript, você pode conferir acessando meu repositório;
