@@ -1,10 +1,12 @@
-### Oii! como você está? 🤗
+### Oie! Conheça um pouco da Maylinha
 
+- 👩🏼‍💻Atualmente trabalho como monitora de aprendizagem no Instituto da Oportunidade Social
+- 🎓 Cursando Web Design na FIAP;
 - 🎓 Formada em Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo;
-- 🚀 Participei do Programa Start Tech - Desenvolvimento Front-End pela TOTVS em parceria com a Ada Tech;
-- 🤓 Estou realizando cursos complementares pela Origamid;
+- 🎓 Formada em Design Gráfico na Universidade Cidade de São Paulo;
 - 💻 Formada pelo Instituto da Oportunidade Social em Desenvolvimento Web;
-- 👩‍💻 Realizei alguns projetos durante meu período neste curso, com as linguagens HTML, CSS e JavaScript, você pode conferir acessando meu repositório;
+- 🚀 Participei do Programa Start Tech - Desenvolvimento Front-End pela TOTVS em parceria com a Ada Tech;
+- 💡 Realizei alguns projetos durante meu período no IOS, com as linguagens HTML, CSS e JavaScript, você pode conferir acessando meu repositório;
 - 🤍 Meu foco hoje é pelo front-end, mas gostaria de explorar o back-end para futuramente me tornar uma dev full-stack.
 
 <div align="center">
@@ -25,9 +27,3 @@
 
 ##
  
-<div> 
-  <a href="https://www.linkedin.com/in/mayla-mayumi-motobe-776114b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/MaylaMotobe/MaylaMotobe/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
