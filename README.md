@@ -1,12 +1,12 @@
 ### Oie! Conheça um pouco da Maylinha
 
-- 👩🏼‍💻Atualmente trabalho como monitora de aprendizagem no Instituto da Oportunidade Social
+- 👩🏼‍💻Atualmente trabalho como monitora de aprendizagem no Instituto Percorre
 - 🎓 Cursando Web Design na FIAP;
 - 🎓 Formada em Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo;
 - 🎓 Formada em Design Gráfico na Universidade Cidade de São Paulo;
-- 💻 Formada pelo Instituto da Oportunidade Social em Desenvolvimento Web;
+- 💻 Formada pelo Instituto Percorre em Desenvolvimento Web;
 - 🚀 Participei do Programa Start Tech - Desenvolvimento Front-End pela TOTVS em parceria com a Ada Tech;
-- 💡 Realizei alguns projetos durante meu período no IOS, com as linguagens HTML, CSS e JavaScript, você pode conferir acessando meu repositório;
+- 💡 Realizei alguns projetos durante meu período no Percorre, com as linguagens HTML, CSS e JavaScript, você pode conferir acessando meu repositório;
 - 🤍 Meu foco hoje é pelo front-end, mas gostaria de explorar o back-end para futuramente me tornar uma dev full-stack.
 
 
